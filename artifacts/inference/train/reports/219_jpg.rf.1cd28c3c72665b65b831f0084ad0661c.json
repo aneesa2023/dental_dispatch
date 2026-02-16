@@ -1,0 +1,11 @@
+{
+  "image": "219_jpg.rf.1cd28c3c72665b65b831f0084ad0661c.jpg",
+  "overlay": "219_jpg.rf.1cd28c3c72665b65b831f0084ad0661c_overlay.jpg",
+  "findings": [
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.2979976534843445
+    }
+  ]
+}

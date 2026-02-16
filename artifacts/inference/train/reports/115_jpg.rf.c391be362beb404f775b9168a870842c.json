@@ -1,0 +1,11 @@
+{
+  "image": "115_jpg.rf.c391be362beb404f775b9168a870842c.jpg",
+  "overlay": "115_jpg.rf.c391be362beb404f775b9168a870842c_overlay.jpg",
+  "findings": [
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.6001034379005432
+    }
+  ]
+}

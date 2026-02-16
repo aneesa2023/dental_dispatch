@@ -1,0 +1,46 @@
+{
+  "image": "67_jpg.rf.e5cb18e5d386138d1722e37dbc24eaaf.jpg",
+  "overlay": "67_jpg.rf.e5cb18e5d386138d1722e37dbc24eaaf_overlay.jpg",
+  "findings": [
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.738967776298523
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.4864632785320282
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.4476058781147003
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.43847090005874634
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.43367406725883484
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.35051754117012024
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.3463035821914673
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.27291935682296753
+    }
+  ]
+}

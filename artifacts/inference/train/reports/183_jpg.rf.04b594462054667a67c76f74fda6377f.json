@@ -1,0 +1,31 @@
+{
+  "image": "183_jpg.rf.04b594462054667a67c76f74fda6377f.jpg",
+  "overlay": "183_jpg.rf.04b594462054667a67c76f74fda6377f_overlay.jpg",
+  "findings": [
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.5735631585121155
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.29558804631233215
+    },
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.2945513427257538
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.26525890827178955
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.2593841254711151
+    }
+  ]
+}

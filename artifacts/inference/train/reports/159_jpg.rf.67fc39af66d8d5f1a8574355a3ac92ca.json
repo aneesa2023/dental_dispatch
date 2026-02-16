@@ -1,0 +1,26 @@
+{
+  "image": "159_jpg.rf.67fc39af66d8d5f1a8574355a3ac92ca.jpg",
+  "overlay": "159_jpg.rf.67fc39af66d8d5f1a8574355a3ac92ca_overlay.jpg",
+  "findings": [
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.9491798877716064
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.6258212327957153
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.2948608100414276
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.2838038504123688
+    }
+  ]
+}

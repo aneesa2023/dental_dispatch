@@ -1,0 +1,11 @@
+{
+  "image": "92_jpg.rf.c3fffef2c3ffe8d1b63e14574de78117.jpg",
+  "overlay": "92_jpg.rf.c3fffef2c3ffe8d1b63e14574de78117_overlay.jpg",
+  "findings": [
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.2752613425254822
+    }
+  ]
+}

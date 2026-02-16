@@ -1,0 +1,26 @@
+{
+  "image": "193_jpg.rf.9332d0a964f9ce246c4fd683aad6990d.jpg",
+  "overlay": "193_jpg.rf.9332d0a964f9ce246c4fd683aad6990d_overlay.jpg",
+  "findings": [
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.8694274425506592
+    },
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.6946069002151489
+    },
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.6919009685516357
+    },
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.5975338816642761
+    }
+  ]
+}

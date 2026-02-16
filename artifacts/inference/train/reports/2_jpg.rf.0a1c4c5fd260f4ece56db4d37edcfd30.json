@@ -1,0 +1,76 @@
+{
+  "image": "2_jpg.rf.0a1c4c5fd260f4ece56db4d37edcfd30.jpg",
+  "overlay": "2_jpg.rf.0a1c4c5fd260f4ece56db4d37edcfd30_overlay.jpg",
+  "findings": [
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.9340225458145142
+    },
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.8785135746002197
+    },
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.8308092355728149
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.34909239411354065
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.3484056293964386
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.3220454454421997
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.3194469213485718
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.31720611453056335
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.28783848881721497
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.2676104009151459
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.25797146558761597
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.2575744688510895
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.25552311539649963
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.25419145822525024
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "image": "45_jpg.rf.32d6247ae21c675d78c71258c5291032.jpg",
+  "overlay": "45_jpg.rf.32d6247ae21c675d78c71258c5291032_overlay.jpg",
+  "findings": [
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.7890203595161438
+    },
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.7204007506370544
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.7002507448196411
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.6321554780006409
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.61330246925354
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.591638445854187
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.5816640853881836
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.579858660697937
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.5656803846359253
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.5322908163070679
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.44847267866134644
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.40425315499305725
+    },
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.3726290166378021
+    },
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.34007495641708374
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.284512996673584
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.2724289298057556
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.26849812269210815
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.2634868621826172
+    }
+  ]
+}

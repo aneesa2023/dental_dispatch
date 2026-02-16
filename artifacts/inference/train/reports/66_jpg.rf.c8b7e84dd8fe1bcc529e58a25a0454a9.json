@@ -1,0 +1,26 @@
+{
+  "image": "66_jpg.rf.c8b7e84dd8fe1bcc529e58a25a0454a9.jpg",
+  "overlay": "66_jpg.rf.c8b7e84dd8fe1bcc529e58a25a0454a9_overlay.jpg",
+  "findings": [
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.8601491451263428
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.3490633964538574
+    },
+    {
+      "label_id": 0,
+      "label": "healthy",
+      "confidence": 0.2997713088989258
+    },
+    {
+      "label_id": 0,
+      "label": "healthy",
+      "confidence": 0.27158287167549133
+    }
+  ]
+}

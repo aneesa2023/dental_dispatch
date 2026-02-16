@@ -1,0 +1,26 @@
+{
+  "image": "40_jpg.rf.536bf157889e0278fd513a6be890f252.jpg",
+  "overlay": "40_jpg.rf.536bf157889e0278fd513a6be890f252_overlay.jpg",
+  "findings": [
+    {
+      "label_id": 4,
+      "label": "infection",
+      "confidence": 0.7392478585243225
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.33282893896102905
+    },
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.27167582511901855
+    },
+    {
+      "label_id": 0,
+      "label": "healthy",
+      "confidence": 0.2683621048927307
+    }
+  ]
+}

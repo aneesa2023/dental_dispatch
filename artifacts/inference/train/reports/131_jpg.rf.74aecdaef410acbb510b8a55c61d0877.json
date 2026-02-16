@@ -1,0 +1,16 @@
+{
+  "image": "131_jpg.rf.74aecdaef410acbb510b8a55c61d0877.jpg",
+  "overlay": "131_jpg.rf.74aecdaef410acbb510b8a55c61d0877_overlay.jpg",
+  "findings": [
+    {
+      "label_id": 5,
+      "label": "fractured",
+      "confidence": 0.3467712104320526
+    },
+    {
+      "label_id": 2,
+      "label": "impacted",
+      "confidence": 0.2735597789287567
+    }
+  ]
+}
